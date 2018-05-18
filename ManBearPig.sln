@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManBearPig", "ManBearPig.csproj", "{68859141-A9BC-45AF-93C9-D250B3E5DFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68859141-A9BC-45AF-93C9-D250B3E5DFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68859141-A9BC-45AF-93C9-D250B3E5DFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68859141-A9BC-45AF-93C9-D250B3E5DFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68859141-A9BC-45AF-93C9-D250B3E5DFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA551798-4C03-4F5D-9BD7-3BA6794FAF5C}
+	EndGlobalSection
+EndGlobal
